@@ -6,7 +6,7 @@
 
 ## Success URL 
 
-**[Bae Suzy Bot TG](https://t.me/Rashmika_mandanana_bot)**
+**[ᏒᏗᏕᏂᎷᎥ](https://t.me/Rashmika_mandanana_bot)**
 
 ## Features
 
