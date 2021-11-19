@@ -1,7 +1,4 @@
-![bae-suzy-3](https://user-images.githubusercontent.com/86665964/139548397-929351de-7bc5-49f6-9910-88a881fd626f.jpg)
-<h1 align="center">
-  <b>Bae Suzy Bot</b>
-</h1>
+
 
 ## Note
 
@@ -9,7 +6,7 @@
 
 ## Success URL 
 
-**[Bae Suzy Bot TG](https://t.me/SpaciousUniverseBot)**
+**[Bae Suzy Bot TG](https://t.me/Rashmika_mandanana_bot)**
 
 ## Features
 
@@ -50,7 +47,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/kalanakt/Bae-Suzy-TG">
+<a href="https://heroku.com/deploy?template=https://github.com/patelboss/Rashmika_mandanana_bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
