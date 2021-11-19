@@ -14,8 +14,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/kalanakt/Bae-Suzy-Bot-TG",
-    "repository": "https://github.com/kalanakt/Bae-Suzy-Bot-TG",
+    "website": "https://github.com/patelboss/Rashmika_mandanana_bot",
+    "repository": "https://github.com/patelboss/Rashmika_mandanana_bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
